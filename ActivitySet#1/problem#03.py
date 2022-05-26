@@ -1,4 +1,4 @@
-# Variables, Expressions & Statements
+
 
 hrs = floatinput("Enter Hours:")
 rate = floatinput("Enter Rate per Hour:")
